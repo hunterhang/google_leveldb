@@ -1,0 +1,572 @@
+Tleveldb
+v6
+r1
+cCheck dependencies
+cCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o /Users/hunterzhang/Documents/source/leveldb/util/cache.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o /Users/hunterzhang/Documents/source/leveldb/db/repair.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000054096549000000000000044C
+t1409901897
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005409654900000000000001DE
+t1409901897
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o
+t2
+s0
+
+N/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/block.o
+t2
+s0
+
+N/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o
+t2
+s0
+
+N/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o
+t2
+s0
+
+N/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o
+t2
+s0
+
+N/Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc
+c0000000052A768340000000000000D2D
+t1386702900
+s3373
+
+N/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc
+c0000000052A7683500000000000012AF
+t1386702901
+s4783
+
+N/Users/hunterzhang/Documents/source/leveldb/db/repair.cc
+c0000000052A7683500000000000035C2
+t1386702901
+s13762
+
+N/Users/hunterzhang/Documents/source/leveldb/table/block.cc
+c0000000052A768350000000000001F8F
+t1386702901
+s8079
+
+N/Users/hunterzhang/Documents/source/leveldb/util/cache.cc
+c0000000052A7683500000000000021D8
+t1386702901
+s8664
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies253b2a985dccb941^33c445985dccb941^-136"warning: no rule to process file '/Users/hunterzhang/Documents/source/leveldb/Makefile' of type sourcecode.make for architecture x86_641(21%IDEActivityLogMessage2@135"Warning: no rule to process file '/Users/hunterzhang/Documents/source/leveldb/Makefile' of type sourcecode.make for architecture x86_64-432823704#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"442AB7AB-A391-4890-9C57-078849FFCF74-
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/arena.o /Users/hunterzhang/Documents/source/leveldb/util/arena.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/arena_test.o /Users/hunterzhang/Documents/source/leveldb/util/arena_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s432823704.275896
+e432823704.896876
+r0
+xCompileC
+xbuild/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o
+x/Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/status.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/options.h
+d/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h
+d/Users/hunterzhang/Documents/source/leveldb/db/dbformat.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/comparator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/filter_policy.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/table_builder.h
+d/Users/hunterzhang/Documents/source/leveldb/util/coding.h
+d/Users/hunterzhang/Documents/source/leveldb/port/port.h
+d/Users/hunterzhang/Documents/source/leveldb/util/logging.h
+d/Users/hunterzhang/Documents/source/leveldb/db/log_writer.h
+d/Users/hunterzhang/Documents/source/leveldb/db/log_format.h
+d/Users/hunterzhang/Documents/source/leveldb/db/snapshot.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/env.h
+d/Users/hunterzhang/Documents/source/leveldb/port/thread_annotations.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h
+d/Users/hunterzhang/Documents/source/leveldb/util/testharness.h
+d/Users/hunterzhang/Documents/source/leveldb/util/random.h
+d/Users/hunterzhang/Documents/source/leveldb/util/testutil.h
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:5:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h:10:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h:18:
+o[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                       ^~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                               ~~^~~~~
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:6:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:10:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:
+o[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:6:
+o[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:137:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::Mutex mutex_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:138:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer shutting_down_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:139:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::CondVar bg_cv_;          // Signalled when background work finishes
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:142:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer has_imm_;  // So bg thread can detect non-NULL imm_
+o[0;1;32m  ^
+o[0m2 warnings and 6 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc192"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o [1mdb/autocompact_test.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler73bc46985dccb941^130de6985dccb941^-2596"In file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:5:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h:10:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h:18:[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                       ^~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                               ~~^~~~~[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:6:In file included from /Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:10:In file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc:6:[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:137:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::Mutex mutex_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:138:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer shutting_down_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:139:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::CondVar bg_cv_;          // Signalled when background work finishes[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:142:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer has_imm_;  // So bg thread can detect non-NULL imm_[0;1;32m  ^[0m2 warnings and 6 errors generated.-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc0000000000000000^3069"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o [1mdb/autocompact_test.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hunterzhang/Documents/source/leveldb    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-generated-files.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-own-target-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-all-target-headers.hmap -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-project-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hunterzhang/Documents/source/leveldb/include -I/Users/hunterzhang/Documents/source/leveldb -I/Users/hunterzhang/Documents/source/leveldb/db -I/Users/hunterzhang/Documents/source/leveldb/port -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources/x86_64 -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources -F/Users/hunterzhang/Documents/source/leveldb/build/Release -MMD -MT dependencies -MF /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.d --serialize-diagnostics /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.dia -c /Users/hunterzhang/Documents/source/leveldb/db/autocompact_test.cc -o /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o36"B129BB2B-12DD-41FE-A8F3-9A1B8C1DA762-
+bDDBBF6A4-E364-47B8-9239-6156F725FD8F
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/block.o /Users/hunterzhang/Documents/source/leveldb/table/block.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/block_builder.o /Users/hunterzhang/Documents/source/leveldb/table/block_builder.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/bloom.o /Users/hunterzhang/Documents/source/leveldb/util/bloom.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/bloom_test.o /Users/hunterzhang/Documents/source/leveldb/util/bloom_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/builder.o /Users/hunterzhang/Documents/source/leveldb/db/builder.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/c.o /Users/hunterzhang/Documents/source/leveldb/db/c.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/c_test.o /Users/hunterzhang/Documents/source/leveldb/db/c_test.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o /Users/hunterzhang/Documents/source/leveldb/util/cache.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s432823704.275168
+e432823704.593010
+r0
+xCompileC
+xbuild/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o
+x/Users/hunterzhang/Documents/source/leveldb/util/cache.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hunterzhang/Documents/source/leveldb/util/cache.cc
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h
+d/Users/hunterzhang/Documents/source/leveldb/port/port.h
+d/Users/hunterzhang/Documents/source/leveldb/util/hash.h
+d/Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h
+d/Users/hunterzhang/Documents/source/leveldb/port/thread_annotations.h
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:9:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h:22:
+o[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                       ^~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                               ~~^~~~~
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:12:
+o[1m/Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h:25:22: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  explicit MutexLock(port::Mutex *mu) EXCLUSIVE_LOCK_FUNCTION(mu)
+o[0;1;32m                     ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h:32:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::Mutex *const mu_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:160:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::Mutex mutex_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:177:11: [0m[0;1;31merror: [0m[1mexception specification in declaration does not match previous declaration[0m
+oLRUCache::~LRUCache() {
+o[0;1;32m          ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:138:3: [0m[0;1;30mnote: [0mprevious declaration is here[0m
+o  ~LRUCache();
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:273:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::Mutex id_mutex_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:322:10: [0m[0;1;31merror: [0m[1mcannot initialize return object of type 'leveldb::Cache *' with an rvalue of type
+o      'leveldb::<anonymous>::ShardedLRUCache *'[0m
+o  return new ShardedLRUCache(capacity);
+o[0;1;32m         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o[0m2 warnings and 6 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/hunterzhang/Documents/source/leveldb/util/cache.cc172"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o [1mutil/cache.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb6a146985dccb941^753e98985dccb941^-2518"In file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:9:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h:22:[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                       ^~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                               ~~^~~~~[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:12:[1m/Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h:25:22: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  explicit MutexLock(port::Mutex *mu) EXCLUSIVE_LOCK_FUNCTION(mu)[0;1;32m                     ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h:32:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::Mutex *const mu_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:160:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::Mutex mutex_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:177:11: [0m[0;1;31merror: [0m[1mexception specification in declaration does not match previous declaration[0mLRUCache::~LRUCache() {[0;1;32m          ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:138:3: [0m[0;1;30mnote: [0mprevious declaration is here[0m  ~LRUCache();[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:273:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::Mutex id_mutex_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/cache.cc:322:10: [0m[0;1;31merror: [0m[1mcannot initialize return object of type 'leveldb::Cache *' with an rvalue of type      'leveldb::<anonymous>::ShardedLRUCache *'[0m  return new ShardedLRUCache(capacity);[0;1;32m         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m2 warnings and 6 errors generated.8(36%IDEClangDiagnosticActivityLogMessage2@102"Implicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to 'const int'-432823704#18446744073709551615#0#2(2@82"In file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:9:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^8#9#8#9#286#0#21"Apple LLVM 5.0 Notice--2@93"In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h:22:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h0000000000000000^21#9#21#9#1021#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#42#96#42#2892#0#22"Value Conversion Issue2(3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#42#96#47#2892#0#3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#12#96#19#2862#0#-2@102"Implicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to 'const int'-432823704#18446744073709551615#0#2(2@82"In file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:9:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^8#9#8#9#286#0#21"Apple LLVM 5.0 Notice--2@93"In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h:22:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h0000000000000000^21#9#21#9#1021#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#52#96#52#2902#0#22"Value Conversion Issue2(3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#50#96#57#2900#2#3@74"file:///Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h0000000000000000^96#12#96#19#2862#0#-2@35"Use of undeclared identifier 'port'-432823704#18446744073709551615#0#1(2@83"In file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:12:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^11#9#11#9#359#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h0000000000000000^24#21#24#21#777#0#14"Semantic Issue--2@35"Use of undeclared identifier 'port'-432823704#18446744073709551615#0#1(2@83"In file included from /Users/hunterzhang/Documents/source/leveldb/util/cache.cc:12:-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^11#9#11#9#359#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@67"file:///Users/hunterzhang/Documents/source/leveldb/util/mutexlock.h0000000000000000^31#2#31#2#939#0#14"Semantic Issue--2@35"Use of undeclared identifier 'port'-432823704#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^159#2#159#2#4599#0#14"Semantic Issue--2@74"Exception specification in declaration does not match previous declaration-432823704#18446744073709551615#0#1(2@28"Previous declaration is here-432823704#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^137#2#137#2#3857#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^176#10#176#10#4899#0#14"Semantic Issue--2@35"Use of undeclared identifier 'port'-432823704#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^272#2#272#2#7151#0#14"Semantic Issue--2@123"Cannot initialize return object of type 'leveldb::Cache *' with an rvalue of type 'leveldb::<anonymous>::ShardedLRUCache *'-432823704#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^321#9#321#9#8606#0#14"Semantic Issue1(3@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^321#9#321#38#8606#28#-0#0#1#-19%DVTDocumentLocation4@64"file:///Users/hunterzhang/Documents/source/leveldb/util/cache.cc0000000000000000^3007"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o [1mutil/cache.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hunterzhang/Documents/source/leveldb    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-generated-files.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-own-target-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-all-target-headers.hmap -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-project-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hunterzhang/Documents/source/leveldb/include -I/Users/hunterzhang/Documents/source/leveldb -I/Users/hunterzhang/Documents/source/leveldb/db -I/Users/hunterzhang/Documents/source/leveldb/port -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources/x86_64 -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources -F/Users/hunterzhang/Documents/source/leveldb/build/Release -MMD -MT dependencies -MF /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.d --serialize-diagnostics /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.dia -c /Users/hunterzhang/Documents/source/leveldb/util/cache.cc -o /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o36"A48F70EC-38E6-4FFA-9B97-A13F684BFC4D-
+bDDBBF6A4-E364-47B8-9239-6156F725FD8F
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache_test.o /Users/hunterzhang/Documents/source/leveldb/util/cache_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/coding.o /Users/hunterzhang/Documents/source/leveldb/util/coding.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/coding_test.o /Users/hunterzhang/Documents/source/leveldb/util/coding_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/comparator.o /Users/hunterzhang/Documents/source/leveldb/util/comparator.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/corruption_test.o /Users/hunterzhang/Documents/source/leveldb/db/corruption_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/crc32c.o /Users/hunterzhang/Documents/source/leveldb/util/crc32c.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/crc32c_test.o /Users/hunterzhang/Documents/source/leveldb/util/crc32c_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_bench.o /Users/hunterzhang/Documents/source/leveldb/db/db_bench.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_bench_sqlite3.o /Users/hunterzhang/Documents/source/leveldb/doc/bench/db_bench_sqlite3.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_bench_tree_db.o /Users/hunterzhang/Documents/source/leveldb/doc/bench/db_bench_tree_db.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_impl.o /Users/hunterzhang/Documents/source/leveldb/db/db_impl.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_iter.o /Users/hunterzhang/Documents/source/leveldb/db/db_iter.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/db_test.o /Users/hunterzhang/Documents/source/leveldb/db/db_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/dbformat.o /Users/hunterzhang/Documents/source/leveldb/db/dbformat.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/dbformat_test.o /Users/hunterzhang/Documents/source/leveldb/db/dbformat_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/env.o /Users/hunterzhang/Documents/source/leveldb/util/env.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/env_posix.o /Users/hunterzhang/Documents/source/leveldb/util/env_posix.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/env_test.o /Users/hunterzhang/Documents/source/leveldb/util/env_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/filename.o /Users/hunterzhang/Documents/source/leveldb/db/filename.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/filename_test.o /Users/hunterzhang/Documents/source/leveldb/db/filename_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/filter_block.o /Users/hunterzhang/Documents/source/leveldb/table/filter_block.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/filter_block_test.o /Users/hunterzhang/Documents/source/leveldb/table/filter_block_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/filter_policy.o /Users/hunterzhang/Documents/source/leveldb/util/filter_policy.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/format.o /Users/hunterzhang/Documents/source/leveldb/table/format.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/hash.o /Users/hunterzhang/Documents/source/leveldb/util/hash.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/histogram.o /Users/hunterzhang/Documents/source/leveldb/util/histogram.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/issue178_test.o /Users/hunterzhang/Documents/source/leveldb/issues/issue178_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/issue200_test.o /Users/hunterzhang/Documents/source/leveldb/issues/issue200_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/iterator.o /Users/hunterzhang/Documents/source/leveldb/table/iterator.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/leveldb_main.o /Users/hunterzhang/Documents/source/leveldb/db/leveldb_main.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/log_reader.o /Users/hunterzhang/Documents/source/leveldb/db/log_reader.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/log_test.o /Users/hunterzhang/Documents/source/leveldb/db/log_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/log_writer.o /Users/hunterzhang/Documents/source/leveldb/db/log_writer.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/logging.o /Users/hunterzhang/Documents/source/leveldb/util/logging.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/main.o /Users/hunterzhang/Documents/source/leveldb/leveldb/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memenv.o /Users/hunterzhang/Documents/source/leveldb/helpers/memenv/memenv.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memenv_test.o /Users/hunterzhang/Documents/source/leveldb/helpers/memenv/memenv_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s432823704.279687
+e432823704.695364
+r0
+xCompileC
+xbuild/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o
+x/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc
+d/Users/hunterzhang/Documents/source/leveldb/db/memtable.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/status.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/options.h
+d/Users/hunterzhang/Documents/source/leveldb/db/dbformat.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/comparator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/filter_policy.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/table_builder.h
+d/Users/hunterzhang/Documents/source/leveldb/util/coding.h
+d/Users/hunterzhang/Documents/source/leveldb/port/port.h
+d/Users/hunterzhang/Documents/source/leveldb/util/logging.h
+d/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h
+d/Users/hunterzhang/Documents/source/leveldb/util/arena.h
+d/Users/hunterzhang/Documents/source/leveldb/util/random.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/env.h
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:9:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h:10:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h:18:
+o[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                       ^~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                               ~~^~~~~
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:10:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:
+o[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:11:
+o[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:105:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer max_height_;   // Height of the entire list
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:176:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer next_[1];
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:183:29: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o      sizeof(Node) + sizeof(port::AtomicPointer) * (height - 1));
+o[0;1;32m                            ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:27:11: [0m[0;1;31merror: [0m[1mexception specification in declaration does not match previous declaration[0m
+oMemTable::~MemTable() {
+o[0;1;32m          ^
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:
+o[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.h:67:3: [0m[0;1;30mnote: [0mprevious declaration is here[0m
+o  ~MemTable();  // Private since only Unref() should be used to delete it
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:46:24: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'
+o      (aka 'unsigned int') [-Wshorten-64-to-32][0m
+o  PutVarint32(scratch, target.size());
+o[0;1;32m  ~~~~~~~~~~~          ^~~~~~~~~~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:97:33: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'
+o      (aka 'unsigned int') [-Wshorten-64-to-32][0m
+o  char* p = EncodeVarint32(buf, internal_key_size);
+o[0;1;32m            ~~~~~~~~~~~~~~      ^~~~~~~~~~~~~~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:102:25: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'
+o      (aka 'unsigned int') [-Wshorten-64-to-32][0m
+o  p = EncodeVarint32(p, val_size);
+o[0;1;32m      ~~~~~~~~~~~~~~    ^~~~~~~~
+o[0m5 warnings and 6 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc176"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o [1mdb/memtable.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler68b247985dccb941^a01bb2985dccb941^-4108"In file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:In file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:9:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h:10:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h:18:[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                       ^~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                               ~~^~~~~[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:In file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:10:In file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:In file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:11:[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:105:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer max_height_;   // Height of the entire list[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:176:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer next_[1];[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:183:29: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m      sizeof(Node) + sizeof(port::AtomicPointer) * (height - 1));[0;1;32m                            ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:27:11: [0m[0;1;31merror: [0m[1mexception specification in declaration does not match previous declaration[0mMemTable::~MemTable() {[0;1;32m          ^[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:5:[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.h:67:3: [0m[0;1;30mnote: [0mprevious declaration is here[0m  ~MemTable();  // Private since only Unref() should be used to delete it[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:46:24: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'      (aka 'unsigned int') [-Wshorten-64-to-32][0m  PutVarint32(scratch, target.size());[0;1;32m  ~~~~~~~~~~~          ^~~~~~~~~~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:97:33: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'      (aka 'unsigned int') [-Wshorten-64-to-32][0m  char* p = EncodeVarint32(buf, internal_key_size);[0;1;32m            ~~~~~~~~~~~~~~      ^~~~~~~~~~~~~~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/memtable.cc:102:25: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'uint32_t'      (aka 'unsigned int') [-Wshorten-64-to-32][0m  p = EncodeVarint32(p, val_size);[0;1;32m      ~~~~~~~~~~~~~~    ^~~~~~~~[0m5 warnings and 6 errors generated.-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/hunterzhang/Documents/source/leveldb/db/memtable.cc0000000000000000^3021"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o [1mdb/memtable.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hunterzhang/Documents/source/leveldb    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-generated-files.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-own-target-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-all-target-headers.hmap -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-project-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hunterzhang/Documents/source/leveldb/include -I/Users/hunterzhang/Documents/source/leveldb -I/Users/hunterzhang/Documents/source/leveldb/db -I/Users/hunterzhang/Documents/source/leveldb/port -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources/x86_64 -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources -F/Users/hunterzhang/Documents/source/leveldb/build/Release -MMD -MT dependencies -MF /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.d --serialize-diagnostics /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.dia -c /Users/hunterzhang/Documents/source/leveldb/db/memtable.cc -o /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o36"8E4B614D-E886-4C27-98E2-749CB4B42148-
+bDDBBF6A4-E364-47B8-9239-6156F725FD8F
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/merger.o /Users/hunterzhang/Documents/source/leveldb/table/merger.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/options.o /Users/hunterzhang/Documents/source/leveldb/util/options.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/port_posix.o /Users/hunterzhang/Documents/source/leveldb/port/port_posix.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o /Users/hunterzhang/Documents/source/leveldb/db/repair.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s432823704.275593
+e432823704.896874
+r0
+xCompileC
+xbuild/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o
+x/Users/hunterzhang/Documents/source/leveldb/db/repair.cc
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hunterzhang/Documents/source/leveldb/db/repair.cc
+d/Users/hunterzhang/Documents/source/leveldb/db/builder.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/status.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h
+d/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h
+d/Users/hunterzhang/Documents/source/leveldb/db/dbformat.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/comparator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/db.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/iterator.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/options.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/filter_policy.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/table_builder.h
+d/Users/hunterzhang/Documents/source/leveldb/util/coding.h
+d/Users/hunterzhang/Documents/source/leveldb/port/port.h
+d/Users/hunterzhang/Documents/source/leveldb/util/logging.h
+d/Users/hunterzhang/Documents/source/leveldb/db/log_writer.h
+d/Users/hunterzhang/Documents/source/leveldb/db/log_format.h
+d/Users/hunterzhang/Documents/source/leveldb/db/snapshot.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/env.h
+d/Users/hunterzhang/Documents/source/leveldb/port/thread_annotations.h
+d/Users/hunterzhang/Documents/source/leveldb/db/filename.h
+d/Users/hunterzhang/Documents/source/leveldb/db/log_reader.h
+d/Users/hunterzhang/Documents/source/leveldb/db/memtable.h
+d/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h
+d/Users/hunterzhang/Documents/source/leveldb/util/arena.h
+d/Users/hunterzhang/Documents/source/leveldb/util/random.h
+d/Users/hunterzhang/Documents/source/leveldb/db/table_cache.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/cache.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/table.h
+d/Users/hunterzhang/Documents/source/leveldb/db/version_edit.h
+d/Users/hunterzhang/Documents/source/leveldb/db/write_batch_internal.h
+d/Users/hunterzhang/Documents/source/leveldb/include/leveldb/write_batch.h
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:27:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/builder.h:8:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/status.h:17:
+o[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                       ^~~~~
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to
+o      'const int' [-Wshorten-64-to-32][0m
+o  const int min_len = (size_ < b.size_) ? size_ : b.size_;
+o[0;1;32m            ~~~~~~~                               ~~^~~~~
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:28:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:10:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:
+o[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  if (port::kLittleEndian) {
+o[0;1;32m      ^
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:28:
+o[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:137:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::Mutex mutex_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:138:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer shutting_down_;
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:139:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::CondVar bg_cv_;          // Signalled when background work finishes
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:142:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer has_imm_;  // So bg thread can detect non-NULL imm_
+o[0;1;32m  ^
+o[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:33:
+oIn file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:11:
+o[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:105:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer max_height_;   // Height of the entire list
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:176:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o  port::AtomicPointer next_[1];
+o[0;1;32m  ^
+o[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:183:29: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m
+o      sizeof(Node) + sizeof(port::AtomicPointer) * (height - 1));
+o[0;1;32m                            ^
+o[0m2 warnings and 9 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/hunterzhang/Documents/source/leveldb/db/repair.cc172"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o [1mdb/repair.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileracab46985dccb941^3dd1e5985dccb941^-3378"In file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:27:In file included from /Users/hunterzhang/Documents/source/leveldb/db/builder.h:8:In file included from /Users/hunterzhang/Documents/source/leveldb/include/leveldb/status.h:17:[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:43: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                       ^~~~~[0m[1m/Users/hunterzhang/Documents/source/leveldb/include/leveldb/slice.h:97:53: [0m[0;1;35mwarning: [0m[1mimplicit conversion loses integer precision: 'const size_t' (aka 'const unsigned long') to      'const int' [-Wshorten-64-to-32][0m  const int min_len = (size_ < b.size_) ? size_ : b.size_;[0;1;32m            ~~~~~~~                               ~~^~~~~[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:28:In file included from /Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:10:In file included from /Users/hunterzhang/Documents/source/leveldb/db/dbformat.h:14:[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:59:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/util/coding.h:73:7: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  if (port::kLittleEndian) {[0;1;32m      ^[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:28:[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:137:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::Mutex mutex_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:138:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer shutting_down_;[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:139:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::CondVar bg_cv_;          // Signalled when background work finishes[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/db_impl.h:142:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer has_imm_;  // So bg thread can detect non-NULL imm_[0;1;32m  ^[0mIn file included from /Users/hunterzhang/Documents/source/leveldb/db/repair.cc:33:In file included from /Users/hunterzhang/Documents/source/leveldb/db/memtable.h:11:[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:105:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer max_height_;   // Height of the entire list[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:176:3: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m  port::AtomicPointer next_[1];[0;1;32m  ^[0m[1m/Users/hunterzhang/Documents/source/leveldb/db/skiplist.h:183:29: [0m[0;1;31merror: [0m[1muse of undeclared identifier 'port'[0m      sizeof(Node) + sizeof(port::AtomicPointer) * (height - 1));[0;1;32m                            ^[0m2 warnings and 9 errors generated.-0#0#1#-19%DVTDocumentLocation2@63"file:///Users/hunterzhang/Documents/source/leveldb/db/repair.cc0000000000000000^3009"[1mCompileC[0m build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o [1mdb/repair.cc[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hunterzhang/Documents/source/leveldb    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-generated-files.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-own-target-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-all-target-headers.hmap -iquote /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/leveldb-project-headers.hmap -I/Users/hunterzhang/Documents/source/leveldb/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hunterzhang/Documents/source/leveldb/include -I/Users/hunterzhang/Documents/source/leveldb -I/Users/hunterzhang/Documents/source/leveldb/db -I/Users/hunterzhang/Documents/source/leveldb/port -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources/x86_64 -I/Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/DerivedSources -F/Users/hunterzhang/Documents/source/leveldb/build/Release -MMD -MT dependencies -MF /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.d --serialize-diagnostics /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.dia -c /Users/hunterzhang/Documents/source/leveldb/db/repair.cc -o /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o36"EF26A635-2900-4B97-A1CD-D316F3CB71F9-
+bDDBBF6A4-E364-47B8-9239-6156F725FD8F
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/skiplist_test.o /Users/hunterzhang/Documents/source/leveldb/db/skiplist_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/status.o /Users/hunterzhang/Documents/source/leveldb/util/status.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/table.o /Users/hunterzhang/Documents/source/leveldb/table/table.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/table_builder.o /Users/hunterzhang/Documents/source/leveldb/table/table_builder.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/table_cache.o /Users/hunterzhang/Documents/source/leveldb/db/table_cache.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/table_test.o /Users/hunterzhang/Documents/source/leveldb/table/table_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/testharness.o /Users/hunterzhang/Documents/source/leveldb/util/testharness.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/testutil.o /Users/hunterzhang/Documents/source/leveldb/util/testutil.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/two_level_iterator.o /Users/hunterzhang/Documents/source/leveldb/table/two_level_iterator.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/version_edit.o /Users/hunterzhang/Documents/source/leveldb/db/version_edit.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/version_edit_test.o /Users/hunterzhang/Documents/source/leveldb/db/version_edit_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/version_set.o /Users/hunterzhang/Documents/source/leveldb/db/version_set.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/version_set_test.o /Users/hunterzhang/Documents/source/leveldb/db/version_set_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/write_batch.o /Users/hunterzhang/Documents/source/leveldb/db/write_batch.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/write_batch_test.o /Users/hunterzhang/Documents/source/leveldb/db/write_batch_test.cc normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CGenerateDSYMFile /Users/hunterzhang/Documents/source/leveldb/build/Release/leveldb.dSYM /Users/hunterzhang/Documents/source/leveldb/build/Release/leveldb
+r0
+
+CLd /Users/hunterzhang/Documents/source/leveldb/build/Release/leveldb normal x86_64
+r0
+

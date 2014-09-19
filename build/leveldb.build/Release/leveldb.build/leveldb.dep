@@ -1,0 +1,5 @@
+ffffffffffffffffffffffffffffffff e81470e6e592d80f4e0796650a6e297a ffffffffffffffffffffffffffffffff 0 /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/autocompact_test.o
+ffffffffffffffffffffffffffffffff 317fff65f201145e20f32ebd0b90eea6 ffffffffffffffffffffffffffffffff 0 /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/repair.o
+ffffffffffffffffffffffffffffffff 5b8d3064b828c729e312b72c848586a2 ffffffffffffffffffffffffffffffff 0 /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/memtable.o
+00000000019c05c90000000000002e96 218859c90bce0fcac3c9d52c5fa60473 ffffffffffffffffffffffffffffffff 0 /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/cache.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/hunterzhang/Documents/source/leveldb/build/leveldb.build/Release/leveldb.build/Objects-normal/x86_64/block.o
